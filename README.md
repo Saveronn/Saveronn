@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saveronn
 - 👀 I’m interested in python
 - 🌱 I’m currently learning sql database
-- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me daruga43@gmail.com
 
 <!---
